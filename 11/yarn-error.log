@@ -6099,7 +6099,7 @@ Trace:
   Exit code: 3221225786
   Command: C:\Windows\system32\cmd.exe
   Arguments: /d /s /c webpack-dev-server
-  Directory: D:\jtthink\react\pro\11
+  Directory: D:\jtthink\react\pro\12
   Output:
   
       at ProcessTermError.MessageError (D:\Program Files (x86)\Yarn\lib\cli.js:186:110)
