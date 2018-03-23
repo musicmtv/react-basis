@@ -1,0 +1,2 @@
+yarn add antd
+yarn add css-loader file-loader url-loader style-loader babel-plugin-import

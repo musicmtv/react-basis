@@ -230,7 +230,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../18" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -312,12 +312,12 @@
       <workItem from="1521374231772" duration="3128000" />
       <workItem from="1521381019501" duration="5460000" />
       <workItem from="1521456785357" duration="1714000" />
-      <workItem from="1521543410695" duration="5030000" />
+      <workItem from="1521543410695" duration="5631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85806000" />
+    <option name="totallyTimeSpent" value="86407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
